@@ -57,5 +57,5 @@ this.http.get<any>(this.API_URL_JSON)
 - **Mejoras futuras:** Implementación de mapas interactivos y almacenamiento en caché para mejorar el rendimiento.  
 
 ## 📂 Repositorio y Recursos
-- **Repositorio GitHub:** [DAR-Actividad3](https://github.com/TheHacha167/Dar-Desarrollo-de-Aplicaciones-en-Red-Actividad3)  
-- **Aplicación desplegada:** [Enlace a la aplicación](https://thehacha167.github.io/Dar-Desarrollo-de-Aplicaciones-en-Red-Actividad3/)  
+- **Repositorio GitHub:** [DAR-Actividad3](https://github.com/SamuelCalzadilla/Dar-Desarrollo-de-Aplicaciones-en-Red-Actividad3)  
+- **Aplicación desplegada:** [Enlace a la aplicación](https://SamuelCalzadilla.github.io/Dar-Desarrollo-de-Aplicaciones-en-Red-Actividad3/)  
